@@ -1,205 +1,205 @@
 Graph file name: com-amazon.digraph_pre
 Direct = 0, undirect = 1: 0
 DiGraph with 334863 nodes and 1851744 edges
-Computation time real PageRank: 8.21828556060791 s
-Random walks - T=3.44s
-Computation time random walks: 3.47456955909729 s
-Approx method execution time K = 1: 2.463238000869751 s
+Computation time real PageRank: 7.9360620975494385 s
+Random walks - T=3.41s
+Computation time random walks: 3.44419527053833 s
+Approx method execution time K = 1: 2.5605359077453613 s
 approxPageRank1.txt updated.
 top100PageRanks1.txt updated.
-Random walks - T=5.48s
-Computation time random walks: 5.586813926696777 s
-Approx method execution time K = 2: 4.906183242797852 s
+Random walks - T=5.68s
+Computation time random walks: 5.80685019493103 s
+Approx method execution time K = 2: 5.319807767868042 s
 approxPageRank2.txt updated.
 top100PageRanks2.txt updated.
-Random walks - T=10.36s
-Computation time random walks: 10.583549737930298 s
-Approx method execution time K = 5: 12.182414054870605 s
+Random walks - T=12.06s
+Computation time random walks: 12.277059555053711 s
+Approx method execution time K = 5: 12.446454524993896 s
 approxPageRank5.txt updated.
 top100PageRanks5.txt updated.
-Random walks - T=20.95s
-Computation time random walks: 21.346404314041138 s
-Approx method execution time K = 10: 24.534136295318604 s
+Random walks - T=23.73s
+Computation time random walks: 24.117764711380005 s
+Approx method execution time K = 10: 24.70287322998047 s
 approxPageRank10.txt updated.
 top100PageRanks10.txt updated.
-Random walks - T=27.76s
-Computation time random walks: 28.408600330352783 s
-Approx method execution time K = 15: 36.18572759628296 s
+Random walks - T=29.83s
+Computation time random walks: 30.466073036193848 s
+Approx method execution time K = 15: 36.634400606155396 s
 approxPageRank15.txt updated.
 top100PageRanks15.txt updated.
-Random walks - T=33.09s
-Computation time random walks: 34.05389404296875 s
-Approx method execution time K = 20: 49.086517572402954 s
+Random walks - T=41.15s
+Computation time random walks: 42.09510326385498 s
+Approx method execution time K = 20: 53.735153913497925 s
 approxPageRank20.txt updated.
 top100PageRanks20.txt updated.
-Random walks - T=4.04s
-Computation time random walks: 5.198257207870483 s
-Approx method execution time K = 1: 2.4150607585906982 s
-Random walks - T=5.65s
-Computation time random walks: 5.771572113037109 s
-Approx method execution time K = 2: 5.1515491008758545 s
-Random walks - T=7.50s
-Computation time random walks: 7.698328733444214 s
-Approx method execution time K = 5: 19.381463527679443 s
-Random walks - T=13.33s
-Computation time random walks: 13.73380970954895 s
-Approx method execution time K = 10: 39.436102867126465 s
+Random walks - T=3.98s
+Computation time random walks: 5.121555328369141 s
+Approx method execution time K = 1: 2.641613245010376 s
+Random walks - T=6.87s
+Computation time random walks: 7.0357489585876465 s
+Approx method execution time K = 2: 5.236334562301636 s
+Random walks - T=11.27s
+Computation time random walks: 11.496433019638062 s
+Approx method execution time K = 5: 12.54159140586853 s
+Random walks - T=18.83s
+Computation time random walks: 19.234761714935303 s
+Approx method execution time K = 10: 24.636494159698486 s
+Random walks - T=28.98s
+Computation time random walks: 29.68931269645691 s
+Approx method execution time K = 15: 36.63202452659607 s
+Random walks - T=39.59s
+Computation time random walks: 40.51591372489929 s
+Approx method execution time K = 20: 48.588932514190674 s
+Random walks - T=5.72s
+Computation time random walks: 6.858656644821167 s
+Approx method execution time K = 1: 2.4408228397369385 s
+Random walks - T=6.04s
+Computation time random walks: 6.139696359634399 s
+Approx method execution time K = 2: 4.829009771347046 s
+Random walks - T=10.96s
+Computation time random walks: 11.221363544464111 s
+Approx method execution time K = 5: 12.32540488243103 s
+Random walks - T=18.38s
+Computation time random walks: 18.79259705543518 s
+Approx method execution time K = 10: 24.25032067298889 s
+Random walks - T=30.54s
+Computation time random walks: 31.254674434661865 s
+Approx method execution time K = 15: 36.45192623138428 s
+Random walks - T=34.74s
+Computation time random walks: 35.69161105155945 s
+Approx method execution time K = 20: 53.434592485427856 s
+Random walks - T=4.89s
+Computation time random walks: 6.111036539077759 s
+Approx method execution time K = 1: 2.7114450931549072 s
+Random walks - T=6.64s
+Computation time random walks: 6.744100570678711 s
+Approx method execution time K = 2: 4.855764389038086 s
+Random walks - T=11.01s
+Computation time random walks: 11.245820760726929 s
+Approx method execution time K = 5: 12.203016996383667 s
 Random walks - T=19.90s
-Computation time random walks: 20.705867528915405 s
-Approx method execution time K = 15: 57.5345253944397 s
-Random walks - T=32.19s
-Computation time random walks: 32.95146417617798 s
-Approx method execution time K = 20: 48.052770376205444 s
-Random walks - T=5.83s
-Computation time random walks: 7.072234869003296 s
-Approx method execution time K = 1: 2.516103982925415 s
-Random walks - T=6.21s
-Computation time random walks: 6.3932554721832275 s
-Approx method execution time K = 2: 5.074183702468872 s
-Random walks - T=8.57s
-Computation time random walks: 8.795008420944214 s
-Approx method execution time K = 5: 12.297500371932983 s
-Random walks - T=16.32s
-Computation time random walks: 16.755635499954224 s
-Approx method execution time K = 10: 24.29449987411499 s
-Random walks - T=23.78s
-Computation time random walks: 24.50414776802063 s
-Approx method execution time K = 15: 48.12139296531677 s
-Random walks - T=21.02s
-Computation time random walks: 22.551371574401855 s
-Approx method execution time K = 20: 78.1670286655426 s
-Random walks - T=7.13s
-Computation time random walks: 8.95003628730774 s
-Approx method execution time K = 1: 4.154420375823975 s
-Random walks - T=8.49s
-Computation time random walks: 8.643829822540283 s
-Approx method execution time K = 2: 8.043480634689331 s
-Random walks - T=8.97s
-Computation time random walks: 9.202772617340088 s
-Approx method execution time K = 5: 19.37785243988037 s
-Random walks - T=17.44s
-Computation time random walks: 17.788171768188477 s
-Approx method execution time K = 10: 24.074984073638916 s
-Random walks - T=29.93s
-Computation time random walks: 30.65905237197876 s
-Approx method execution time K = 15: 36.36653447151184 s
-Random walks - T=34.37s
-Computation time random walks: 35.31836295127869 s
-Approx method execution time K = 20: 48.84815859794617 s
-Random walks - T=4.85s
-Computation time random walks: 6.12797737121582 s
-Approx method execution time K = 1: 2.5977604389190674 s
-Random walks - T=6.53s
-Computation time random walks: 6.694767236709595 s
-Approx method execution time K = 2: 4.927621364593506 s
-Random walks - T=9.95s
-Computation time random walks: 10.183495998382568 s
-Approx method execution time K = 5: 12.188957929611206 s
-Random walks - T=19.90s
-Computation time random walks: 20.326630115509033 s
-Approx method execution time K = 10: 23.857081413269043 s
-Random walks - T=25.29s
-Computation time random walks: 26.013193368911743 s
-Approx method execution time K = 15: 35.865721464157104 s
-Random walks - T=32.93s
-Computation time random walks: 33.912325382232666 s
-Approx method execution time K = 20: 48.26639127731323 s
-Random walks - T=5.58s
-Computation time random walks: 6.812796354293823 s
-Approx method execution time K = 1: 2.417131185531616 s
-Random walks - T=5.67s
-Computation time random walks: 5.850099563598633 s
-Approx method execution time K = 2: 4.806387186050415 s
-Random walks - T=11.06s
-Computation time random walks: 11.309045791625977 s
-Approx method execution time K = 5: 12.070002794265747 s
-Random walks - T=17.33s
-Computation time random walks: 17.775242567062378 s
-Approx method execution time K = 10: 24.058865785598755 s
-Random walks - T=25.57s
-Computation time random walks: 26.29413914680481 s
-Approx method execution time K = 15: 35.894826889038086 s
-Random walks - T=33.22s
-Computation time random walks: 34.2084641456604 s
-Approx method execution time K = 20: 48.40745544433594 s
-Random walks - T=4.45s
-Computation time random walks: 5.718888282775879 s
-Approx method execution time K = 1: 2.502481698989868 s
-Random walks - T=6.05s
-Computation time random walks: 6.154092311859131 s
-Approx method execution time K = 2: 4.840739727020264 s
-Random walks - T=11.41s
-Computation time random walks: 11.645962476730347 s
-Approx method execution time K = 5: 12.223784685134888 s
-Random walks - T=17.82s
-Computation time random walks: 18.2400643825531 s
-Approx method execution time K = 10: 23.910932302474976 s
-Random walks - T=24.68s
-Computation time random walks: 25.394158840179443 s
-Approx method execution time K = 15: 35.662219285964966 s
-Random walks - T=33.73s
-Computation time random walks: 34.68734788894653 s
-Approx method execution time K = 20: 48.12688636779785 s
-Random walks - T=5.29s
-Computation time random walks: 6.532565116882324 s
-Approx method execution time K = 1: 2.410555601119995 s
-Random walks - T=5.86s
-Computation time random walks: 6.051398515701294 s
-Approx method execution time K = 2: 5.16599440574646 s
-Random walks - T=10.57s
-Computation time random walks: 10.797204732894897 s
-Approx method execution time K = 5: 12.212527751922607 s
-Random walks - T=20.00s
-Computation time random walks: 20.420488119125366 s
-Approx method execution time K = 10: 24.11359190940857 s
-Random walks - T=28.43s
-Computation time random walks: 29.1849582195282 s
-Approx method execution time K = 15: 36.396082401275635 s
-Random walks - T=34.53s
-Computation time random walks: 35.49815654754639 s
-Approx method execution time K = 20: 48.2178168296814 s
-Random walks - T=5.77s
-Computation time random walks: 7.045439720153809 s
-Approx method execution time K = 1: 2.4867210388183594 s
-Random walks - T=5.92s
-Computation time random walks: 6.021319627761841 s
-Approx method execution time K = 2: 4.941494941711426 s
-Random walks - T=11.21s
-Computation time random walks: 11.45829963684082 s
-Approx method execution time K = 5: 12.249232053756714 s
-Random walks - T=19.54s
-Computation time random walks: 19.97226858139038 s
-Approx method execution time K = 10: 24.365334033966064 s
-Random walks - T=26.68s
-Computation time random walks: 27.388335943222046 s
-Approx method execution time K = 15: 36.3050696849823 s
-Random walks - T=36.62s
-Computation time random walks: 37.57417368888855 s
-Approx method execution time K = 20: 48.23948645591736 s
-Random walks - T=4.10s
-Computation time random walks: 5.238002300262451 s
-Approx method execution time K = 1: 2.4287960529327393 s
+Computation time random walks: 20.3149197101593 s
+Approx method execution time K = 10: 24.50236201286316 s
+Random walks - T=29.95s
+Computation time random walks: 30.630825757980347 s
+Approx method execution time K = 15: 36.02665829658508 s
+Random walks - T=37.31s
+Computation time random walks: 38.2401340007782 s
+Approx method execution time K = 20: 48.6899516582489 s
+Random walks - T=4.28s
+Computation time random walks: 5.4943928718566895 s
+Approx method execution time K = 1: 2.4674510955810547 s
+Random walks - T=7.23s
+Computation time random walks: 7.364495754241943 s
+Approx method execution time K = 2: 5.027185678482056 s
+Random walks - T=11.55s
+Computation time random walks: 11.774657964706421 s
+Approx method execution time K = 5: 12.567550897598267 s
+Random walks - T=20.08s
+Computation time random walks: 20.502048015594482 s
+Approx method execution time K = 10: 24.271052360534668 s
+Random walks - T=28.13s
+Computation time random walks: 28.83718204498291 s
+Approx method execution time K = 15: 36.81216335296631 s
+Random walks - T=37.38s
+Computation time random walks: 38.37390995025635 s
+Approx method execution time K = 20: 53.18309283256531 s
+Random walks - T=5.39s
+Computation time random walks: 6.632768630981445 s
+Approx method execution time K = 1: 2.604361057281494 s
+Random walks - T=6.15s
+Computation time random walks: 6.3195812702178955 s
+Approx method execution time K = 2: 4.827594041824341 s
+Random walks - T=11.22s
+Computation time random walks: 11.462557077407837 s
+Approx method execution time K = 5: 12.279388904571533 s
+Random walks - T=19.19s
+Computation time random walks: 19.615237712860107 s
+Approx method execution time K = 10: 24.156546354293823 s
+Random walks - T=28.90s
+Computation time random walks: 29.615617275238037 s
+Approx method execution time K = 15: 36.18339943885803 s
+Random walks - T=36.57s
+Computation time random walks: 37.5334050655365 s
+Approx method execution time K = 20: 48.685171365737915 s
+Random walks - T=4.68s
+Computation time random walks: 5.989547491073608 s
+Approx method execution time K = 1: 2.4513251781463623 s
+Random walks - T=6.18s
+Computation time random walks: 6.356341123580933 s
+Approx method execution time K = 2: 5.089764356613159 s
+Random walks - T=11.69s
+Computation time random walks: 11.918673753738403 s
+Approx method execution time K = 5: 12.195236206054688 s
+Random walks - T=20.45s
+Computation time random walks: 20.87350845336914 s
+Approx method execution time K = 10: 24.19510316848755 s
+Random walks - T=30.73s
+Computation time random walks: 31.417685747146606 s
+Approx method execution time K = 15: 36.063029766082764 s
+Random walks - T=36.56s
+Computation time random walks: 37.51378083229065 s
+Approx method execution time K = 20: 48.70504689216614 s
+Random walks - T=5.41s
+Computation time random walks: 6.656306505203247 s
+Approx method execution time K = 1: 2.435391426086426 s
+Random walks - T=5.96s
+Computation time random walks: 6.146230220794678 s
+Approx method execution time K = 2: 4.90703558921814 s
+Random walks - T=11.49s
+Computation time random walks: 11.728275299072266 s
+Approx method execution time K = 5: 12.241592407226562 s
+Random walks - T=21.33s
+Computation time random walks: 21.74877619743347 s
+Approx method execution time K = 10: 24.190464973449707 s
+Random walks - T=30.28s
+Computation time random walks: 30.937089920043945 s
+Approx method execution time K = 15: 35.70925259590149 s
+Random walks - T=38.36s
+Computation time random walks: 39.263651847839355 s
+Approx method execution time K = 20: 47.900429248809814 s
+Random walks - T=4.98s
+Computation time random walks: 6.134608745574951 s
+Approx method execution time K = 1: 2.4118587970733643 s
 Random walks - T=4.87s
-Computation time random walks: 4.977975845336914 s
-Approx method execution time K = 2: 4.724859952926636 s
-Random walks - T=11.68s
-Computation time random walks: 11.930676937103271 s
-Approx method execution time K = 5: 12.155456066131592 s
-Random walks - T=18.59s
-Computation time random walks: 19.014199256896973 s
-Approx method execution time K = 10: 24.648916721343994 s
-Random walks - T=22.15s
-Computation time random walks: 22.853327751159668 s
-Approx method execution time K = 15: 35.7922146320343 s
-Random walks - T=32.38s
-Computation time random walks: 33.368712425231934 s
-Approx method execution time K = 20: 48.44404172897339 s
-Mean approx execution time K = 1: 8.85630362033844
-Mean approx execution time K = 2: 11.472761869430542
-Mean approx execution time K = 5: 23.994353675842284
-Mean approx execution time K = 10: 44.26673595905304
-Mean approx execution time K = 15: 65.55300960540771
-Mean approx execution time K = 20: 84.79808261394501
+Computation time random walks: 4.966405391693115 s
+Approx method execution time K = 2: 4.869473695755005 s
+Random walks - T=11.50s
+Computation time random walks: 11.696897029876709 s
+Approx method execution time K = 5: 13.381983518600464 s
+Random walks - T=20.63s
+Computation time random walks: 21.051015615463257 s
+Approx method execution time K = 10: 24.343329668045044 s
+Random walks - T=29.60s
+Computation time random walks: 30.31834077835083 s
+Approx method execution time K = 15: 36.76801514625549 s
+Random walks - T=41.03s
+Computation time random walks: 42.246177673339844 s
+Approx method execution time K = 20: 49.086071491241455 s
+Random walks - T=4.78s
+Computation time random walks: 5.950214862823486 s
+Approx method execution time K = 1: 2.4547126293182373 s
+Random walks - T=6.03s
+Computation time random walks: 6.131834030151367 s
+Approx method execution time K = 2: 4.900706052780151 s
+Random walks - T=11.80s
+Computation time random walks: 12.029423713684082 s
+Approx method execution time K = 5: 12.366437196731567 s
+Random walks - T=19.98s
+Computation time random walks: 20.39820647239685 s
+Approx method execution time K = 10: 24.442931652069092 s
+Random walks - T=28.39s
+Computation time random walks: 29.34663701057434 s
+Approx method execution time K = 15: 36.932990074157715 s
+Random walks - T=36.84s
+Computation time random walks: 37.7879843711853 s
+Approx method execution time K = 20: 48.64176654815674 s
+Mean approx execution time K = 1: 8.357280015945435
+Mean approx execution time K = 2: 11.287395977973938
+Mean approx execution time K = 5: 24.139981865882874
+Mean approx execution time K = 10: 45.0340313911438
+Mean approx execution time K = 15: 66.67272987365723
+Mean approx execution time K = 20: 88.99118807315827
 max_deviations.png created.
 deviation_plot.png created.
 mean_execution_times.png created.
