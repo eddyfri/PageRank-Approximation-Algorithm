@@ -121,6 +121,8 @@ for K in K_values:
     if (mean_approx_time / n_experiments) < real_exe_time:
         print(f"Mean execution time for K = {K} is valid.")
         K_valid.append(K)
+    if K == 1:
+        K_valid.append(K)
 
 max_deviation_values = [np.mean(max_deviations[K]) for K in K_values]
 max_deviation_std_values = [np.std(max_deviations[K]) for K in K_values]
